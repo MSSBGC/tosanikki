@@ -3,3 +3,9 @@
   src:
     url("NotoSerifHentaigana[wght].ttf") format("ttf");
 }
+
+body {
+  style="writing-mode: vertical-rl;
+  font-family: 'IPAmj明朝', 'Noto Serif Hentaigana';
+  font-size: 200%;"
+}
