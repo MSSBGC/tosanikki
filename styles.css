@@ -1,11 +1,11 @@
 @font-face {
-  font-family: "Noto Serif Hentaigana";
+  font-family: "NINJAL変体仮名";
   src:
-    url("NotoSerifHentaigana[wght].ttf") format("truetype");
+    url("ninjal_hentaigana.woff2") format("woff2");
 }
 
 body {
   writing-mode: vertical-rl;
-  font-family: 'IPAmj明朝', 'Noto Serif Hentaigana', serif;
-  font-size: 3vh;
+  font-family: 'IPAmj明朝', 'NINJAL変体仮名', serif;
+  font-size: 4vh;
 }
